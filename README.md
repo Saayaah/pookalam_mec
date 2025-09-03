@@ -1,4 +1,4 @@
-# Pookalam 
+# SayanthKrishnaKS_2025_RIT
 How to Run
 
 No special setup is required.
